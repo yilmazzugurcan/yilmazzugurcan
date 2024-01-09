@@ -38,7 +38,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yilmazzugurcan/yilmazzugurcan/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
